@@ -4,7 +4,6 @@
 
 body {
     background: linear-gradient(180deg, #7E6A53 25.5%, #C09A7A 61.67%, rgba(54, 35, 23, 0.87) 96.07%);
-    position: relative;
     width: 100%;
     margin: 0%;
 }
