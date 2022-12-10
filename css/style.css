@@ -103,7 +103,7 @@ padding-left: 10px;
 }
 
 .second_section_title {
-    font-size: 120px;
+    font-size: 116px;
     color: white;
     font-family: 'Roboto Slab', serif;
     line-height: 132px;
@@ -117,7 +117,7 @@ padding-left: 10px;
 .second_section_text {
     text-align: left;
     position: absolute;
-    left: 860px;
+    left: 850px;
     top: 1220px;
     width: 600px;
     font-size: 20px;
