@@ -14,9 +14,8 @@ ul {
     padding: 0%;
     margin: 0%;
     position: absolute;
-    left: 100px;
+    left: 400px;
     top: 40px;
-    width: 100%;
 }
 
 li {
@@ -77,10 +76,6 @@ padding: 10px 0 0 10px;
     font-family: 'Roboto Slab', serif;
     font-weight: 400;
     margin: 0%;
-}
-
-.second_section {
-    width: 100%;
 }
 
 .gradient-box {
